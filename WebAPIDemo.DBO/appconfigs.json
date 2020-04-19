@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "eShopSolutionDb": "Data Source=DESKTOP-OEVHHDV\\SQLEXPRESS;Initial Catalog=DemoWebAPI;Integrated Security=True"
+  }
+}
